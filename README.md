@@ -1,4 +1,4 @@
-# ITCS-2530-Week-5-Programming-Assignment
+# ITCS-2530-Week-6-Programming-Assignment
 ## Math Aptitude Analyzer
 
 ### Description 
