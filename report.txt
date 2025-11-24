@@ -1,0 +1,12 @@
+Name:                                                   Zakaria Rahman
+Favorite Math Subject:                                  Linear Algebra
+Confidence Level:                                                    6
+# of Hours Studying Math:                                         8.00
+Estimated Problems Solved Per Hour:                               3.75
+Test Scores-                                      
+Test Score 1:                                                    85.50
+Test Score 2:                                                    75.50
+Test Score 3:                                                    90.00
+Test Score 4:                                                    95.00
+Test Score 5:                                                   100.00
+Average Test Scores:                                             89.20
